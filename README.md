@@ -4,7 +4,7 @@
 
 Me chamo Hélcio Humberto, sou desenvolvedor FullStack com experiência em diversas tecnologias modernas para desenvolvimento web e backend. Apaixonado por programação, estou sempre buscando aprimorar minhas habilidades e criar soluções eficientes e escaláveis. 
 
-Atualmente, estudo **Engenharia de Software (5º Período)** e aprimoro minhas habilidades em **Node.js, Angular, Java, Spring e SQL**.
+Atualmente, estudo **Engenharia de Software (7º Período)** e aprimoro minhas habilidades em **Node.js, Angular, Java, Spring e SQL**.
 
 ---
 
