@@ -1,6 +1,6 @@
 # Olá, sou o Hélcio Humberto 👋
 
-Brasileiro em Lisboa 🇧🇷🇵🇹 | Engenharia de Software | Full Stack Developer
+Brasileiro em Porto 🇧🇷🇵🇹 | Engenharia de Software | Full Stack Developer
 
 Vim da pecuária e encontrei na programação uma forma de resolver problemas reais.
 Construí um sistema de gestão de gado porque precisava dele — e foi assim que aprendi a programar de verdade.
